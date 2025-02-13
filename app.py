@@ -6,6 +6,8 @@ from src.main import main
 # Set page config
 st.set_page_config(layout="wide")
 
+
+
 # Add custom CSS to set the zoom level to 90%
 st.markdown(
     """
